@@ -1,0 +1,421 @@
+{
+    "Meintsuri": [
+	         {
+                "Channerumei": "TV TOKYO (テレビ東京)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "TOKYO MX",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "FUJI TV (フジテレビ)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8"
+					}
+				]
+        },
+	   {
+                "Channerumei": "Wowow Cinefil (WOWOWシネフィル)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://203.162.235.41:16916"
+					}
+				]
+        },
+		{
+                "Channerumei": "WeatherNews",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+	   {
+                "Channerumei": "NIPPON TV (日本テレビ)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
+					}
+				]
+        },
+	   {
+                "Channerumei": "NIPPON TV NEWS 24 (日テレNEWS24)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+					}
+				]
+        },
+	   {
+                "Channerumei": "NHK G (NHK総合)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "NHK ENGLISH (NHK World Japan)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "NHK 华语视界",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK E (NHK東京　教育)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8"
+					}
+				]
+        },
+	   {
+                "Channerumei": "NHK BS1",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://203.162.235.41:16909"
+					}
+				]
+       },
+	   {
+                "Channerumei": "NHK BSP (NHKBSプレミアム)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://203.162.235.41:16910"
+					}
+				]
+        },
+	    {
+                "Channerumei": "TBS",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "TV ASAHI (テレビ朝日)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "ANIMAX (BSアニマックス)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://180.92.158.208:9981/stream/channelid/806982131"
+					}
+				]
+        },
+	    {
+                "Channerumei": "BS Asahi",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://203.162.235.41:16914"
+					}
+				]
+        },
+	    {
+                "Channerumei": "CGNTV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "Japanet Channel DX",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK General",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://203.162.235.41:16903"
+					}
+				]
+        },
+		{
+                "Channerumei": "QVC Japan",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Shop Channel",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://stream3.shopch.jp/HLS/master.m3u8"
+					}
+				]
+        },
+		
+		{
+                "Channerumei": "NHK",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"http://203.162.235.41:16901"
+					}
+				]
+        },
+	    {
+                "Channerumei": "ABC",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?"
+					}
+				]
+        },
+	    
+		{
+                "Channerumei": "Disney Channel (ディズニーチャンネル)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/disney_channel/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "Channerumei": "Gejiko (衛星劇場)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "familyt Heater (ファミリー劇場)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/familytheater/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Fish (BS釣りビジョン)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Fox",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/jfox/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Gaora",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/GaoRa/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "Kantele (関西テレビ)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "Channerumei": "Kids (キッズステーション)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/jkids/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "MTV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/mtv/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "MBS",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "Channerumei": "Movie Plus (ムービープラス)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Nihon Eiga TV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Omenko TV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/wowcinema_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Osaka TV (テレビ大阪)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "Channerumei": "starch3_540 (スターチャンネル３)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/starch3_540 /playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Samurai",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/jidaigeki/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Sky a (スカイA)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/Sky_A/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Sun",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Triangule (Toei Channel)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/TOA/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Wowow Live",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/wowlive_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Wowow Prime",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/wowprime_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "YTV (読売テレビ)",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoURL":"https://cdn.jpth10.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?"
+					}
+				]
+        }
+		
+  ]
+}
