@@ -1,0 +1,131 @@
+{
+    "Meintsuri": [
+	    {
+                "Channerumei": "Animax",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "TV ASAHI",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16906"
+					}
+				]
+        },
+		{
+                "Channerumei": "NIPPON TV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK ENGLISH",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK BSP",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16910"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK G",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhk.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK 华语视界",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NIPPON TV NEWS 24",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://www.news24.jp/livestream/index.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "MUSIC JAPAN",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://122.155.180.8:5021/live/495"
+					}
+				]
+        },
+		{
+                "Channerumei": "FUJI TV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://fujitv.mov3.co/hls/fujitv.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "TBS",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://tbs.mov3.co/hls/tbs.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "TV TOKYO",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16908"
+					}
+				]
+        },
+		{
+                "Channerumei": "WeatherNews",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Wowow Cinefil",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16916"
+					}
+				]
+        }
+		
+  ]
+}
