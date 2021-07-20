@@ -1,0 +1,271 @@
+{
+    "Meintsuri": [
+	    {
+                "Channerumei": "Animax",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://sub2.neetball.net/live/neet.m3u8"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "TV ASAHI",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16906"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NIPPON TV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16901"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK E",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK ENGLISH",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK BSP",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16910"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK BS1",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK G",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhk.mov3.co/hls/nhk.m3u8"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK 华语视界",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NIPPON TV NEWS 24",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://www.news24.jp/livestream/index.m3u8"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "FUJI TV",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://fujitv.mov3.co/hls/fujitv.m3u8"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "Channerumei": "TBS",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://tbs.mov3.co/hls/tbs.m3u8"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "TV TOKYO",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16908"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "TOKYO MX",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "WeatherNews",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "Wowow Cinefil",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://203.162.235.41:16916"
+					}
+				]
+        },
+		{
+                "Channerumei": "DISNEY CHANNEL",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs13hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "KIDS STATION",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/cs04hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "MUSIC JAPAN",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://122.155.180.8:5021/live/495"
+					}
+				]
+        },
+		{
+                "Channerumei": "ATX",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "J SPORT 1",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "J SPORT 2",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "J SPORT 3",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs12hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "STAR CHANNEL 1",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "STAR CHANNEL 2",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8"
+					}
+				]
+        }
+		
+  ]
+}
