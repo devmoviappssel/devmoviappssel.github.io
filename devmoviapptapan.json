@@ -1,0 +1,54 @@
+{
+    "Meintsuri": [
+		{
+                "Channerumei": "NHK ENGLISH",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NHK 华语视界",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "NIPPON TV NEWS 24",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://www.news24.jp/livestream/index.m3u8"
+					},
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "WeatherNews",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "Channerumei": "ATX",
+                "Kontentsu": [
+					{
+				  	"Chanerukeishiki":"m3u8",
+				  	"ChanerunoChanerunoURL":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        }
+		
+  ]
+}
